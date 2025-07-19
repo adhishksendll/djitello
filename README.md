@@ -1,7 +1,7 @@
 # djitello
 DJI Tello Project
 
-This is my personal project coded in Python exclusively for the DJI Tello.
+This is my personal project which I have coded in Python exclusively for the DJI Tello. Around 80% of the project is compatible with other programmable drones, keeping in mind the minor changes will have to be made to make the program compatible with other drones. I will be updating and documenting my progress here. When the project is complete I will rename the README file to README(Complete).
 
 Timeline:
 
