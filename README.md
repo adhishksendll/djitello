@@ -6,8 +6,11 @@ This is my personal project which I have coded in Python exclusively for the DJI
 Timeline:
 
 v1.0.0: 
-The program allows you to control the drone with your keyboard.
+The program allows you to control the drone with your keyboard. [KeyboardControl.py]
 
 v1.0.1: 
-The program has integrated keyboard control with live video feed from the drone in seperate tabs.
-The program can now show the drone's flight path.
+The program has integrated keyboard control with live video feed from the drone in seperate tabs. [Project-KeyboardControlImageCapture.py]
+The program can now show the drone's flight path. [Mapping.py]
+
+v1.0.2:
+The Face Tracking feature has been added. [FaceTracking.py]
