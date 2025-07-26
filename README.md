@@ -13,4 +13,4 @@ The program has integrated keyboard control with live video feed from the drone 
 The program can now show the drone's flight path. [Mapping.py]
 
 v1.0.2:
-The Face Tracking feature has been added. [FaceTracking.py]
+Face tracking feature has been added. [FaceTracking.py]
