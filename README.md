@@ -14,3 +14,6 @@ The program can now show the drone's flight path. [Mapping.py]
 
 v1.0.2:
 Face tracking feature has been added. [FaceTracking.py]
+
+v1.0.3:
+The mapping feature has been updated to remove certain bugs and irregularities in the code.[Mapping-Beta.py and Mapping-Original.py]
