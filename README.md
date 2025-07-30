@@ -17,3 +17,6 @@ Face tracking feature has been added. [FaceTracking.py]
 
 v1.0.3:
 The mapping feature has been updated to remove certain bugs and irregularities in the code.[Mapping-Beta.py and Mapping-Original.py]
+
+v1.0.4:
+Body tracking feature has been added. [BodyTracking.py]
